@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885804434260",
+    "project_id": "plantlogin-a68ee",
+    "storage_bucket": "plantlogin-a68ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885804434260:android:87107aad0053eeba947ec1",
+        "android_client_info": {
+          "package_name": "com.studentlogin.student_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7MM2fx8lc2LQwkQkBLKKTOpyYx8Q687s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
